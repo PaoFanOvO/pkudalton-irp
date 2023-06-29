@@ -1,0 +1,23 @@
+{
+  "Header": {
+    "title": "IRP 项目列表"
+  },
+  "Head": {
+    "title": "IRP 项目列表 · 2023",
+    "description": "IRP INSPIRATIONS · 2023"
+  },
+  "CourseDetails": {
+    "view_pdf": "查看PDF"
+  },
+  "CourseList": {
+    "selectText": "选择项目类型",
+    "selectTextPlaceholder": "全部项目",
+    "day": "天",
+    "cost": "¥",
+    "accommodation": "住宿{accday}晚"
+  },
+  "Footer": {
+    "darkMode": "切换至夜间模式",
+    "lightMode": "切换至日间模式"
+  }
+}
